@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat for game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlton Hurdle Jr",
+  "license": "ISC",
+  "dependencies": {
+  	"socket.io": "*", 
+  	"express": "*"
+  }
+}

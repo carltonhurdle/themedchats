@@ -1,0 +1,28 @@
+body {
+	margin-top: 30px;	
+	align-content: center;	
+}
+
+#messageArea {
+	display: none;
+}
+
+#username {
+	width: 40%;
+}
+
+.mainContainer {
+	align-self: center;
+}
+
+.jumbotron {
+	background-image: url(https://media.giphy.com/media/Hphs2eg9USGM8/giphy.gif);
+}
+
+.chatstatic {
+	color: white;
+}
+
+.well {
+	background-color: rgba(245, 245, 245, 0.4);
+}
